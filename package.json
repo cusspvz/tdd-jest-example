@@ -1,0 +1,19 @@
+{
+  "name": "testing-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "franciscofsales",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.1"
+  }
+}
